@@ -21,4 +21,4 @@ jobs:
           token: ${{ secrets.DEPLOY }}
           folder: dist
           branch: main
-          repository-name: junjieGit/my-vue-app
+          repository-name: junjieGit/myvueapp.github.io
