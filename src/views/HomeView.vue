@@ -4,12 +4,9 @@ import TheWelcome from '../components/TheWelcome.vue'
 
 <template>
   <main>
-    <h1>Welcome to my Vue App</h1>
+    <h1>沐雨小公主!</h1>
     <p>This is the home page of my Vue App.</p>
     <p>Here is a component:</p>
-    <hr />
-    <p>TheWelcome component:</p>
-    <hr />
     <TheWelcome />
   </main>
 </template>
